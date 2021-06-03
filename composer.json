@@ -1,0 +1,19 @@
+{
+    "name": "researchpanelasia/greeter-20150728",
+    "description": "Skill check for RPA engineer recruitment",
+    "require": {
+        "phpunit/phpunit": "^4.7"
+    },
+    "autoload": {
+        "psr-0": {
+            "MyGreeter": "lib"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "authors": [
+    ]
+}

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b89d7a20-f3ab-4e04-a7d2-60f3a2626b91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1tQsBCCAPgNnCwCrcADllOPE8I7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../hyperf-shop-master/test/HttpTestCase.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\rpa-recruitment-master\rpa-recruitment-master\php\tests" />
+      <recent name="D:\phpstudy_pro\WWW\rpa-recruitment-master\rpa-recruitment-master\php" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.MyGreeter_Client_Test.test_Instance (1)">
+    <configuration name="MyGreeter_Client_Test" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="MyGreeter_Client_Test" file="$PROJECT_DIR$/tests/MyGreeter_Client_Test.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGreeter_Client_Test.test_Instance (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\MyGreeter_Client_Test" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/MyGreeter_Client_Test.php" method="test_Instance" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGreeter_Client_Test.test_Instance" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="MyGreeter_Client_Test" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/MyGreeter_Client_Test.php" method="test_Instance" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGreeter_Client_Test.test_getGreeting" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\MyGreeter_Client_Test" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/MyGreeter_Client_Test.php" method="test_getGreeting" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.MyGreeter_Client_Test.test_Instance (1)" />
+        <item itemvalue="PHPUnit.MyGreeter_Client_Test.test_getGreeting" />
+        <item itemvalue="PHPUnit.MyGreeter_Client_Test.test_Instance" />
+        <item itemvalue="PHPUnit.MyGreeter_Client_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89d7a20-f3ab-4e04-a7d2-60f3a2626b91" name="Default Changelist" comment="" />
+      <created>1622712509752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622712509752</updated>
+      <workItem from="1622712510987" duration="4083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="0" width="800" height="728" key="#MyGreeter_Client_Test" timestamp="1622712591340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" width="989" height="728" key="#MyGreeter_Client_Test.test_Instance" timestamp="1622712604706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" width="989" height="728" key="#MyGreeter_Client_Test.test_Instance/0.0.1366.728@0.0.1366.728" timestamp="1622712604706" />
+    <state x="292" y="0" width="800" height="728" key="#MyGreeter_Client_Test/0.0.1366.728@0.0.1366.728" timestamp="1622712591340" />
+    <state x="327" y="0" key="#PHP" timestamp="1622712603275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1622712603275" />
+    <state x="347" y="61" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1622712749500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="61" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1622712749500" />
+    <state x="410" y="61" key="FileChooserDialogImpl" timestamp="1622713129508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622713129508" />
+    <state width="1310" height="248" key="GridCell.Tab.0.bottom" timestamp="1622715985883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="248" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622715985883" />
+    <state width="1310" height="248" key="GridCell.Tab.0.center" timestamp="1622715985883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="248" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622715985883" />
+    <state width="1310" height="248" key="GridCell.Tab.0.left" timestamp="1622715985883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="248" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622715985883" />
+    <state width="1310" height="248" key="GridCell.Tab.0.right" timestamp="1622715985883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="248" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622715985883" />
+    <state width="1310" height="201" key="GridCell.Tab.1.bottom" timestamp="1622715505628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622715505628" />
+    <state width="1310" height="201" key="GridCell.Tab.1.center" timestamp="1622715505627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1622715505627" />
+    <state width="1310" height="201" key="GridCell.Tab.1.left" timestamp="1622715505627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1622715505627" />
+    <state width="1310" height="201" key="GridCell.Tab.1.right" timestamp="1622715505628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1622715505628" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/MyGreeter_Client_Test.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/MyGreeter.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/MyGreeter.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/MyGreeter.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/MyGreeter.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/MyGreeter.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
